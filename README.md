@@ -22,6 +22,7 @@ to try this code, all you need is
 <img src="assets/images/ss4.jpg" width="250">
 <img src="assets/images/ss5.jpg" width="250">
 <img src="assets/images/ss6.jpg" width="250">
+<img src="assets/images/ss7.jpg" width="250">
 
 ## Meta
 
