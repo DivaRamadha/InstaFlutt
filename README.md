@@ -18,7 +18,10 @@ to try this code, all you need is
 
 ## User interface of application
 
-<img src="assets/images/ss.jpg" width="250"> | <img src="assets/images/ss2.jpg" width="250">
+<img src="assets/images/ss.jpg" width="250"> <img src="assets/images/ss2.jpg" width="250"> <img src="assets/images/ss3.jpg" width="250">
+<img src="assets/images/ss4.jpg" width="250">
+<img src="assets/images/ss5.jpg" width="250">
+<img src="assets/images/ss6.jpg" width="250">
 
 ## Meta
 
