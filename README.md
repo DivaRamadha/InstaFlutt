@@ -4,7 +4,7 @@
 
 The simple database schema I use is :
 
-<img src="assets/images/db.jpg" width="250">
+<img src="assets/images/db.png" width="250">
 
 im not good on backend side. I just a little bit to learning backend. so, correct me if my data structure is wrong.
 
