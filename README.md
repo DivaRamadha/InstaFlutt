@@ -1,9 +1,6 @@
-# Nome do produto
+# Instagram App Using Flutter By Diva
 > Descrição curta sobre o que seu projeto faz.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
