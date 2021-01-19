@@ -31,6 +31,9 @@ to try this code, all you need is
 
 ```sh
 * download this project
+* create database and API
+* change the URL API
+* Save
 * Run flutter package get
 * Run this code using flutter run or
 * flutter run --release
