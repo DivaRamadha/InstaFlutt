@@ -18,10 +18,7 @@ to try this code, all you need is
 
 ## User interface of application
 
-![](assets/images/ss.jpg)
-![](assets/images/ss1.jpg)
-![](assets/images/ss2.jpg)
-![](assets/images/ss3.jpg)
+<img src="assets/images/ss.jpg" width="250"> | <img src="assets/images/ss2.jpg" width="250">
 
 ## Meta
 
