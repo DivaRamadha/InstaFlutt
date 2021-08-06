@@ -2,7 +2,7 @@
 > Login Page, Home Page, Profile Page
 
 
-The simple database schema I use is :
+The simple database schema :
 
 <img src="assets/images/db.png" width="450">
 
